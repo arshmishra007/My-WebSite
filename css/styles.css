@@ -1,0 +1,134 @@
+
+
+body{
+  text-align: center;
+  margin:0;
+  font-family: 'Merriweather', serif;
+  font-size: 160%;
+  background: #d9a7c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+.bottom-container{
+ color: black;
+ background-color: #66BFBF;
+ padding: 50px 0 20px;
+
+}
+
+.button1{
+  height: 45px;
+  width: 100px;
+  background-color: #c9cbff;
+  border-radius: 20px;
+  font-family: 'Merriweather', serif;
+}
+
+.button1:hover{
+  background-color: #fc8621;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+a:hover{
+  color: black;
+}
+
+footer{
+  background-color: #E4F9F9;
+  margin-bottom: 0px;
+
+}
+
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #0f3057;
+
+
+}
+.copyright{
+  color: white;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #0f3057;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#0f3057 ;
+}
+
+.icons{
+  height: 40px;
+  width: 40px;
+}
+hr{
+  border-style: none;
+width: 5%;
+border-top-style: dotted;
+border-color: grey;
+border-width: 8px;
+}
+
+
+.MiddleContainer{
+
+
+}
+
+.Mypic {
+  height: 300px;
+  width: 320px;
+  margin-top: 5%;
+
+}
+
+.Pro {
+  text-decoration: underline;
+  font-weight: normal;
+
+}
+
+.quote{
+  margin-top: 25%;
+}
+
+.skill-row{
+  width: 50%;
+  margin:auto;
+  float: left;
+
+}
+
+.SkillLogo{
+  height: 300px;
+  width: 320px;
+  border-radius: 100px;
+}
+
+.top-cloud{
+ position: absolute;
+ right: 300px;
+ top: 50px;
+
+}
+.TopContainer{
+
+  background: #e1eec3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #f05053, #e1eec3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #f05053, #e1eec3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  position: relative;
+  padding-top: 100px;
+}
